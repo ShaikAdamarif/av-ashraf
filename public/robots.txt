@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://av-propmission-logins.vercel.app/sitemap.xml
